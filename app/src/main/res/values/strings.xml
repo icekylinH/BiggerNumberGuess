@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BiggerNumberGuess</string>
+    <string name="game_description">This game will randomly generate one number and please enter your guess below,or enter q to quit!</string>
+    <string name="input_hint"><font size="13">Plaese enter your anwser in here!</font></string>
+</resources>
